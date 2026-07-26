@@ -1,6 +1,6 @@
 #  Olá, eu sou o deadgl!
 
-🌍 **Website:** [deadgl.ddns.net](https://deadgl.ddns.net/)  
+🌍 **Website:** [deadgl](https://deadgl.ddns.net/)  
 [cite_start]💻 **Projeto Principal:** [XENO-LINUX](https://deadgl.ddns.net/xeno-linux/) — Script de automação e orquestração de ambiente Wine/Linux sob licença GPLv3[cite: 2, 98, 140, 205].  
 🚀 **Foco:** Automação em Shell Script, Engenharia de Software com Lua (LuAU) e JavaScript.  
 [cite_start] **Aprendizado:** Constantemente explorando otimizações de sistema, compatibilidade Linux/Wine e desenvolvimento de ecossistemas modulares[cite: 140, 149].
