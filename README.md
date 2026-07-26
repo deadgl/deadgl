@@ -1,9 +1,9 @@
 #  Olá, eu sou o deadgl!
 
-🌍 **Website:** [deadgl](https://deadgl.ddns.net/)  
-[cite_start]💻 **Projeto Principal:** [XENO-LINUX](https://deadgl.ddns.net/xeno-linux/) — Script de automação e orquestração de ambiente Wine/Linux sob licença GPLv3[cite: 2, 98, 140, 205].  
+🌍 **Website:** [DeadGL](https://deadgl.ddns.net/)  
+💻 **Projeto Principal:** [XENO-LINUX](https://deadgl.ddns.net/xeno-linux/) — Script de automação e orquestração de ambiente Wine/Linux sob licença GPLv3.  
 🚀 **Foco:** Automação em Shell Script, Engenharia de Software com Lua (LuAU) e JavaScript.  
-[cite_start] **Aprendizado:** Constantemente explorando otimizações de sistema, compatibilidade Linux/Wine e desenvolvimento de ecossistemas modulares[cite: 140, 149].
+**Aprendizado:** Constantemente explorando otimizações de sistema, compatibilidade Linux/Wine e desenvolvimento de ecossistemas modulares.
 
 ---
 
@@ -30,8 +30,8 @@
 ##  GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deadgl&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Estatísticas de deadgl" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deadgl&theme=dark&hide_border=false&layout=compact" alt="Linguagens mais usadas" height="175" />
+  <img src="https://github-stats-extended.vercel.app/api?username=deadgl&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Estatísticas de deadgl" height="175" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=deadgl&theme=dark&hide_border=false&layout=compact" alt="Linguagens mais usadas" height="175" />
 </p>
 
 <p align="center">
@@ -41,5 +41,5 @@
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=deadgl&icon=5&color=0" alt="Contador de Visitas" />
+  <img src="https://komarev.com/ghpvc/?username=deadgl" alt="Contador de Visitas" />
 </p>
