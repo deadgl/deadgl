@@ -1,4 +1,4 @@
-#  Olá, eu sou o deadgl!
+#  Olá, eu sou o DeadGL!
 
 🌍 **Website:** [deadgl.ddns.net](https://deadgl.ddns.net/)  
 💻 **Projeto em Destaque:** [XENO-LINUX](https://deadgl.ddns.net/xeno-linux/) — Script de automação e orquestração de ambiente Wine/Linux sob licença GPLv3.  
